@@ -1,4 +1,4 @@
-# MNIST Classifier from Scratch
+# MNIST Classifier From Scratch
 
 No fancy frameworks, just pure python and numpy. This project was done to deeper understand neural networks by building one from the ground up.
 
